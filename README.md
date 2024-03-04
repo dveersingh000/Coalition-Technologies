@@ -25,6 +25,35 @@ PSD (Photoshop) design into HTML. I extracted the images from the provided file 
 ## Demo
 ![Screen Shot 2022-06-20 at 4 38 25 PM](https://user-images.githubusercontent.com/52841881/174680804-2a95e8e5-0c80-4104-9eb9-93ef6eeddf7b.png)
 
+## 🤝 Contributing <a name="contributing"></a>
+
+You can offer Contributions, submit an [issue](../../issues/), and make a feature request.
+
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Please give a ⭐️ to support this project
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> I would like to thank COALITION TECHNOLOGIES for inspiring this project
+> Original design idea by [COALITION TECHNOLOGIES.](https://coalitiontechnologies.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contact
 
 |Email|LinkedIn|
