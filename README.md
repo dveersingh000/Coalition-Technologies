@@ -35,7 +35,6 @@ You can offer Contributions, submit an [issue](../../issues/), and make a featur
 > Please give a ⭐️ to support this project
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -44,7 +43,6 @@ You can offer Contributions, submit an [issue](../../issues/), and make a featur
 > I would like to thank COALITION TECHNOLOGIES for inspiring this project
 > Original design idea by [COALITION TECHNOLOGIES.](https://coalitiontechnologies.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
@@ -52,7 +50,6 @@ You can offer Contributions, submit an [issue](../../issues/), and make a featur
 
 This project is [MIT](./MIT.md) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 
